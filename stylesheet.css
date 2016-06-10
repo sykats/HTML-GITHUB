@@ -1,0 +1,35 @@
+a {
+	text-decoration: none;
+}
+h1 {
+	font-family: Verdana;
+	color: blue;
+
+}
+h2 {
+	font-family: Arial;
+}
+span {
+	color: red;
+}
+#firstnav img{
+	float: left;
+}
+#firstnav {
+	width: 100%;
+	background-color: #9400D3;
+	height: 108px;
+	
+}
+#firstnav ul {
+	display: inline-block;
+	float: right;
+}
+.footer {
+	background-color: blue;
+	clear: both;
+}
+#logofooter {
+	float: right;
+	height: 50px;
+}
